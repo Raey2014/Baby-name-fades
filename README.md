@@ -1,4 +1,4 @@
-# Baby-name-fades
+# Baby name fades
 
 In this project, I analyzed the us-baby names over 100 years record by downloading from us social-security website. 
 ## In this analysis, you will find 
